@@ -1,0 +1,46 @@
+
+/* Image Border Color */
+img {
+   padding:2px;
+   background-color: Navy;
+}
+
+/* BG Color */
+body {
+background-color: PaleGoldenRod;
+color: Navy;
+}
+
+/* Heading 1 Text in cursive & cyan*/
+h1 {
+font-family: cursive;
+color: Cyan;
+ border-style: solid;
+    border-width: 5px;
+
+}
+
+/* Heading 2 Text in cursive & Dark cyan*/
+h2 {
+font-family: cursive;
+color: DarkCyan;
+ border-style: solid;
+    border-width: 5px;
+}
+
+/* Heading 3 Text in cursive & Dark cyan*/
+h3 {
+font-family: cursive;
+color: DarkCyan;
+}
+
+/* Heading 4 Text in cursive & Dark cyan*/
+h4 {
+font-family: cursive;
+color: DarkCyan;
+
+}
+/* unvisited link (Link at Bottom) in color red */
+a:link {
+    color: red;
+}
